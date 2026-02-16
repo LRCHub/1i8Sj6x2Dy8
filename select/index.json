@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "HEAT",
+  "base_artist": "B'z",
+  "createdAt": "2026-02-16T15:45:38.562662Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/01_Heat_Waves_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Greenhouse Heat Death",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/02_Greenhouse_Heat_Death_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Greenhouse Heat Death",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Greenhouse_Heat_Death_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hell Raisin' Heat Of The Summer",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/04_Hell_Raisin'_Heat_Of_The_Summer_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hell Raisin' Heat Of The Summer (Album Version)",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/05_Hell_Raisin'_Heat_Of_The_Summer_(Album_Version)_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heat Seeking Ghost of Sex",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/06_Heat_Seeking_Ghost_of_Sex_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heat Of The Moment",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/07_Heat_Of_The_Moment_Drake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dog In Heat (feat. Redman & Method Man)",
+      "artist": "Missy Elliott feat. Redman & Method Man",
+      "has_synced": true,
+      "path": "select/08_Dog_In_Heat_(feat._Redman_&_Method_Man)_Missy_Elliott_feat._Redman_&_Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dog In Heat (Ft. Redman And Method Man)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/09_Dog_In_Heat_(Ft._Redman_And_Method_Man)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heat",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/10_Heat_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In The Heat Of The Morning",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_In_The_Heat_Of_The_Morning_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In The Heat Of The Morning - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_In_The_Heat_Of_The_Morning_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rolling With Heat",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/13_Rolling_With_Heat_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "White Light/White Heat (Live)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/14_White_Light_White_Heat_(Live)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "White Light/White Heat (Live '73)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/15_White_Light_White_Heat_(Live_'73)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Heat Rash In The Shape Of The Show Me State; Or, Letters From Me To Charlotte",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/16_A_Heat_Rash_In_The_Shape_Of_The_Show_Me_State;_Or,_Letters_From_Me_To_Charlotte_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "White Light / White Heat",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/17_White_Light___White_Heat_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dog In Heat (featuring Redman & Method Man) (LP Version)",
+      "artist": "Missy Elliott feat. Redman & Method Man",
+      "has_synced": true,
+      "path": "select/18_Dog_In_Heat_(featuring_Redman_&_Method_Man)_(LP_Version)_Missy_Elliott_feat._Redman_&_Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dog in Heat (feat. Method Man & Redman)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/19_Dog_in_Heat_(feat._Method_Man_&_Redman)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEAT",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_01_HEAT_B'z.txt"
+    }
+  ]
+}
